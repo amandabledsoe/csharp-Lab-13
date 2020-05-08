@@ -1,0 +1,12 @@
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.exe
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.deps.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.runtimeconfig.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.runtimeconfig.dev.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.dll
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\bin\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.pdb
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.csproj.CoreCompileInputs.cache
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.AssemblyInfoInputs.cache
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.AssemblyInfo.cs
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.dll
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.pdb
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Lab 13 MCV Lab\Begin Lab 13 MCV Lab\obj\Debug\netcoreapp3.1\Begin Lab 13 MCV Lab.genruntimeconfig.cache

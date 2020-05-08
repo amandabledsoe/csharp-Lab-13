@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Begin Lab 13 MCV Lab/1.0.0": {
+        "runtime": {
+          "Begin Lab 13 MCV Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Begin Lab 13 MCV Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
